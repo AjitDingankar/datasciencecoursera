@@ -6,5 +6,5 @@ For the Data Scientist's Toolbox MOOC from Johns Hopkins University
 2. Tried [this workaround](https://github.com/STAT545-UBC/Discussion/issues/93 "STAT 545 @ University of British Columbia").
 3. Tried [another workaround](https://github.com/OHI-Science/ohicore/issues/104 "Ocean Health Index").
 
-...* This could've worked with the right URI ("git@github.com") instead of git@~~//~~github.com :-( 
+   * This could've worked with the right URI ("git@github.com") instead of git@~~//~~github.com :-( 
 4. Upgraded git from PPA (to v2.9.0 from v1.9.1) per [this suggestion](http://askubuntu.com/a/568596) based on [detailed instructions from OHI above](http://ohi-science.org/manual/#rpostback-askpass-error).
